@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Поймай Каплю:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/__jar</output-path>
+    <root id="archive" name="Поймай Каплю.jar">
+      <element id="module-output" name="Поймай Каплю" />
+    </root>
+  </artifact>
+</component>

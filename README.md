@@ -1,1 +1,1 @@
-My independent projects
+My independent mini projects
